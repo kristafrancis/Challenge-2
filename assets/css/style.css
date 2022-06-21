@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    /* more on this crazy alphanumerical value in a minute! */
+    color: #2F4F4F;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  /* apply styles to <header> */
+  header {
+    padding: 20px 35px;
+    background-color: #F08080;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #FFFACD;
+    margin: 0;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: #FFFACD;
+  }
+  header nav {
+    margin: 7px 0;
+  }
+  header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+  
+  header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 1.55vw;
+  }
+  footer {
+    background: #f08080;
+    width: 100%;
+    padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  footer h2 {
+    color: #FFFACD;
+    font-size: 30px;
+    margin: 0;
+  }
+  footer div {
+    line-height: 1.5;
+    text-align: right;
+  }
+  footer a {
+    color: #024e76;
+  }
+  section {
+    padding: 60px;
