@@ -9,6 +9,26 @@ body {
   color: #2f4f4f;
   font-family: Helvetica, Arial, sans-serif;
 }
+
+.about-me-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile-picture {
+  max-height: 230px;
+  max-width: 95px;
+  height: auto;
+  width: auto;
+  margin-right: 10px;
+}
+
+.large-portfolio-picture {
+  max-width: 700px;
+  max-height: 250px;
+  height: auto;
+  width: auto;
+}
 /* apply styles to <header> */
 header {
   padding: 20px 35px;
@@ -66,4 +86,12 @@ footer a {
 }
 section {
   padding: 60px;
+}
+.hero {
+  background-image: url("../images/hero-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
