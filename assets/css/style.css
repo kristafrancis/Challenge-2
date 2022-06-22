@@ -24,15 +24,36 @@ body {
 }
 
 .large-portfolio-picture {
-  max-width: 700px;
+  max-width: 1000px;
   max-height: 250px;
   height: auto;
   width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.small-portfolio-picture {
+  max-width: 500px;
+  max-height: 125px;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.last-portfolio-picture {
+  max-width: 500px;
+  max-height: 125px;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 /* apply styles to <header> */
 header {
   padding: 20px 35px;
-  background-color: #f08080;
+  background-color: #8fbc8f;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -65,7 +86,7 @@ header nav ul li a {
   font-size: 1.55vw;
 }
 footer {
-  background: #f08080;
+  background: #8fbc8f;
   width: 100%;
   padding: 40px 35px;
   display: flex;
