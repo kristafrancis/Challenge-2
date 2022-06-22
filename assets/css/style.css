@@ -68,6 +68,7 @@ header h1 {
 header a {
   text-decoration: none;
   color: #fffacd;
+  text-align: right;
 }
 header nav {
   margin: 7px 0;
