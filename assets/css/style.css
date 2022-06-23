@@ -23,31 +23,13 @@ body {
 }
 
 .large-portfolio-picture {
-  max-width: 1000px;
-  max-height: 250px;
-  height: auto;
-  width: auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  width: 1000px;
 }
 .small-portfolio-picture {
-  max-width: 500px;
-  max-height: 125px;
-  height: auto;
-  width: auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  width: 500px;
 }
 .last-portfolio-picture {
-  max-width: 500px;
-  max-height: 125px;
-  height: auto;
-  width: auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  width: 500px;
 }
 header {
   padding: 20px 35px;
