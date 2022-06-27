@@ -11,7 +11,7 @@ A website that showcases my work and contains my contact information
 
 ## Website
 
-https://kristafrancis.github.io/challenge-2/
+https://kristafrancis.github.io/Portfolio/
 
 ## Contribution
 
