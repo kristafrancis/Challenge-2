@@ -27,9 +27,11 @@ body {
 }
 .small-portfolio-picture {
   width: 500px;
+  height: 350px;
 }
 .last-portfolio-picture {
   width: 500px;
+  height: 350px;
 }
 header {
   padding: 20px 35px;
