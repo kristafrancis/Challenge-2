@@ -17,4 +17,4 @@ https://kristafrancis.github.io/Portfolio/
 
 Made with ❤️ by Krista Francis
 
-/Users/kristafrancis/Desktop/UCF/challenges/Portfolio/assets/images/Screen Shot 2022-06-23 at 9.08.22 PM.png
+https://user-images.githubusercontent.com/106784320/182619962-93ca9596-ec16-42a7-aaef-0c76673e1d30.png
