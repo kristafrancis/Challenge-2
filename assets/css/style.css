@@ -15,8 +15,8 @@ body {
 }
 
 .profile-picture {
-  max-height: 230px;
-  max-width: 95px;
+  max-height: 500px;
+  max-width: 300px;
   height: auto;
   width: auto;
   margin-right: 10px;
@@ -29,14 +29,7 @@ body {
   width: 500px;
   height: 350px;
 }
-.last-portfolio-picture {
-  width: 500px;
-  height: 350px;
-}
-.another-portfolio-picture {
-  width: 500px;
-  height: 350px;
-}
+
 header {
   padding: 20px 35px;
   background-color: #8fbc8f;
