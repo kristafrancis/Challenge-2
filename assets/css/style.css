@@ -7,6 +7,7 @@
 body {
   color: #2f4f4f;
   font-family: Helvetica, Arial, sans-serif;
+  background-color: #fffacd;
 }
 
 .about-me-container {
@@ -23,11 +24,13 @@ body {
 }
 
 .large-portfolio-picture {
-  width: 1000px;
+  width: 1300px;
+  height: 650px;
 }
 .small-portfolio-picture {
-  width: 500px;
-  height: 350px;
+  width: 650px;
+  height: 400px;
+  padding: 10px 10px;
 }
 
 header {
@@ -75,7 +78,7 @@ footer {
 }
 footer h2 {
   color: #fffacd;
-  font-size: 30px;
+  font-size: 100px;
   margin: 0;
 }
 footer div {
